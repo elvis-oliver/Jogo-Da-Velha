@@ -1,0 +1,1 @@
+Projeto de front-end feito em Angular de um jogo da velha, para executar instale as dependencias: npm install e para iniciar: npm start
